@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "dev": "nodemon ./src/app.js"
+  },
+  "dependencies": {
+    "chromedriver": "^114.0.2",
+    "nodemon": "^2.0.22",
+    "selenium-webdriver": "^4.10.0"
+  }
+}
